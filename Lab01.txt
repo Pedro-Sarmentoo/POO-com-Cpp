@@ -1,0 +1,3 @@
+Questão 1: Quando categoriza grupo de objetos com base em alguns dados
+Questão 2: Todos os objetos são categorizados em alguma classe
+Questão 3: Em que as funções de POO não precisa de alguns dados para utilizar a função, sendo assim é mais facil reutilizar os codigos, diferente da programação estruturada.
