@@ -1,0 +1,5 @@
+Questão 1: As classes elas podem ser comparadas aos tipos pois é capaz de definir um tipo para o objeto e tambem englobando muito mais coisa do que apenas definir o que aquele objeto e tambem a forma de declarar um objeto como classe é igual a forma de declarar um tipo de uma variavel.
+
+Questão 2: A partir do private
+
+Questão 3: Pelo fato de que apenas deles que é possivel obter os dados que estão encapsulados, sendo assim dando uma maior segurança para esses dados.
